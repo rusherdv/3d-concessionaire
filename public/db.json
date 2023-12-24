@@ -1,0 +1,243 @@
+{
+    "cars": [
+        {
+            "id": 0,
+            "brand": "Ford",
+            "model": "Mustang",
+            "year": "2016",
+            "specs": {
+                "engine": "V8",
+                "performance": "450 hp",
+                "chassis": "Sports Chassis"
+            },
+            "img": "https://fotos.perfil.com/2019/06/28/trim/1280/720/el-nuevo-ford-mustang-shelby-gt500-ofrecera-760-caballos-de-potencia-747118.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: Ford Coyote 5.0L Ti-VCT V8",
+                    "power": "Power: 450 hp",
+                    "transmission": "Transmission: 6-speed manual"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 4.3 seconds",
+                    "topSpeed": "Top Speed: 155 mph (limited)"
+                },
+                "chassis": {
+                    "platform": "Platform: Ford S550 platform",
+                    "suspensionFront": "Front suspension: Independent McPherson strut",
+                    "suspensionRear": "Rear suspension: Independent integral link"
+                }
+            },
+            "object": "/mustang.glb"
+        },
+        {
+            "id": 1,
+            "brand": "Toyota",
+            "model": "Supra",
+            "year": "2017",
+            "specs": {
+                "engine": "Inline-6",
+                "performance": "335 hp",
+                "chassis": "Sport-tuned Chassis"
+            },
+            "img":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Toyota_GR_Supra_SZ-R_%283BA-DB82-ZSRW%29.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: BMW B58B30, 3.0 liters, inline-6",
+                    "power": "Power: 335 hp",
+                    "transmission": "Transmission: 8-speed automatic"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 4.1 seconds",
+                    "topSpeed": "Top Speed: Electronically limited to 155 mph (250 km/h)"
+                },
+                "chassis": {
+                    "platform": "Platform shared with the BMW Z4",
+                    "suspensionFront": "Front suspension: McPherson",
+                    "suspensionRear": "Rear suspension: Multilink",
+                    "steering": "Electric power steering"
+                }
+            },
+            "object": "/supra.glb"
+        },
+        {
+            "id": 2,
+            "brand": "Porsche",
+            "model": "911 TurboS",
+            "year": "2023",
+            "specs": {
+                "engine": "Twin-turbo Flat-6",
+                "performance": "640 hp",
+                "chassis": "Porsche Active Suspension Management (PASM)"
+            },
+            "img": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/ES-PLA-local/2022/Vehiculos/El-nuevo-Porsche-911-Turbo-S-llega-Ecuador/PLA22_1125_fine.jpg/jcr:content/PLA22_1125_fine.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: Twin-turbocharged Flat-6",
+                    "power": "Power: 640 hp",
+                    "transmission": "Transmission: 8-speed dual-clutch PDK"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 2.7 seconds",
+                    "topSpeed": "Top Speed: 205 mph"
+                },
+                "chassis": {
+                    "platform": "Platform: Porsche 911 platform",
+                    "suspensionFront": "Front suspension: Independent MacPherson strut",
+                    "suspensionRear": "Rear suspension: Multilink",
+                    "steering": "Power-assisted steering"
+                }
+            },
+            "object": "/porsche911turbos.glb"
+        },
+        {
+            "id": 3,
+            "brand": "Audi",
+            "model": "A5",
+            "year": "2023",
+            "specs": {
+                "engine": "Inline-4",
+                "performance": "248 hp",
+                "chassis": "Audi Drive Select"
+            },
+            "img":"https://cdn.motor1.com/images/mgl/6ZzjyN/s1/audi-a5-4.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: Turbocharged Inline-4",
+                    "power": "Power: 248 hp",
+                    "transmission": "Transmission: 7-speed S tronic dual-clutch"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 5.7 seconds",
+                    "topSpeed": "Top Speed: 130 mph (electronically limited)"
+                },
+                "chassis": {
+                    "platform": "Platform: Volkswagen Group MLB platform",
+                    "suspensionFront": "Front suspension: Five-link suspension",
+                    "suspensionRear": "Rear suspension: Independent wheel suspension",
+                    "steering": "Electromechanical power steering"
+                }
+            },
+            "object": "/a5.glb"
+        },
+        {
+            "id": 4,
+            "brand": "Lamborghini",
+            "model": "SVJ",
+            "year": "2019",
+            "specs": {
+                "engine": "V12",
+                "performance": "770 hp",
+                "chassis": "Lamborghini Dinamica Veicolo Integrata (LDVI)"
+            },
+            "img": "https://cdn.motor1.com/images/mgl/Q8bqN/s1/lamborghini-aventador-svj.webp",
+            "details": {
+                "engine": {
+                    "description": "Engine: Naturally aspirated V12",
+                    "power": "Power: 770 hp",
+                    "transmission": "Transmission: 7-speed ISR (Independent Shifting Rods)"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 2.8 seconds",
+                    "topSpeed": "Top Speed: 217 mph"
+                },
+                "chassis": {
+                    "platform": "Platform: Lamborghini ALA 2.0",
+                    "suspensionFront": "Front suspension: Double wishbone suspension",
+                    "suspensionRear": "Rear suspension: Multilink suspension",
+                    "steering": "Electromechanical power steering"
+                }
+            },
+            "object": "/svj.glb"
+        },
+        {
+            "id": 5,
+            "brand": "Dodge",
+            "model": "Challenger",
+            "year": "2019",
+            "specs": {
+                "engine": "V8",
+                "performance": "797 hp",
+                "chassis": "High-strength Steel Frame"
+            },
+            "img": "https://hips.hearstapps.com/hmg-prod/images/challenger1-1557774972.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: Supercharged HEMI V8",
+                    "power": "Power: 797 hp",
+                    "transmission": "Transmission: 8-speed automatic"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 3.4 seconds",
+                    "topSpeed": "Top Speed: 203 mph"
+                },
+                "chassis": {
+                    "platform": "Platform: Chrysler LX platform",
+                    "suspensionFront": "Front suspension: Independent high-performance suspension",
+                    "suspensionRear": "Rear suspension: Five-link independent suspension",
+                    "steering": "Electromechanical power steering"
+                }
+            },
+            "object": "/challenger.glb"
+        },
+        {
+            "id": 6,
+            "brand": "Koenigsegg",
+            "model": "One",
+            "year": "2014",
+            "specs": {
+                "engine": "V8",
+                "performance": "1341 hp",
+                "chassis": "Carbon Fiber Monocoque"
+            },
+            "img": "https://i.pinimg.com/736x/e3/74/12/e3741239a66697bd853715b79f90e74b.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: Twin Turbocharged V8",
+                    "power": "Power: 1341 hp",
+                    "transmission": "Transmission: 7-speed dual-clutch"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 2.8 seconds",
+                    "topSpeed": "Top Speed: 273 mph"
+                },
+                "chassis": {
+                    "platform": "Platform: Koenigsegg carbon fiber monocoque",
+                    "suspensionFront": "Front suspension: Double wishbone",
+                    "suspensionRear": "Rear suspension: Double wishbone",
+                    "steering": "Rack and pinion with power assist"
+                }
+            },
+            "object": "/koenigsegg.glb"
+        },
+        {
+            "id": 7,
+            "brand": "BMW",
+            "model": "M3",
+            "year": "2013",
+            "specs": {
+                "engine": "V8",
+                "performance": "414 hp",
+                "chassis": "M-specific Suspension"
+            },
+            "img": "https://media.ed.edmunds-media.com/bmw/m3/2013/oem/2013_bmw_m3_coupe_base_fq_oem_1_1600.jpg",
+            "details": {
+                "engine": {
+                    "description": "Engine: BMW S65B40 V8",
+                    "power": "Power: 414 hp",
+                    "transmission": "Transmission: 7-speed dual-clutch"
+                },
+                "performance": {
+                    "acceleration": "Acceleration: 0-60mph approximately 4.1 seconds",
+                    "topSpeed": "Top Speed: 155 mph (limited)"
+                },
+                "chassis": {
+                    "platform": "Platform: BMW E90/E92",
+                    "suspensionFront": "Front suspension: MacPherson strut",
+                    "suspensionRear": "Rear suspension: Multi-link suspension",
+                    "steering": "Variable M Servotronic electric power steering"
+                }
+            },
+            "object": "/bmw.glb"
+        }
+    ]
+}

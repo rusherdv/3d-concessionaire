@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import {NextUIProvider} from "@nextui-org/react";
 import Car from './pages/car';
 import Home from './pages/home';
@@ -7,12 +7,12 @@ import Home from './pages/home';
 function App() {
   return (
     <NextUIProvider>
-      <Router>
-        <Switch>
-          <Route exact path='/' element={<Home/>}/>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Home/>}/>
           <Route path='/car/:id' element={<Car/>}/>
-        </Switch>
-      </Router>
+        </Routes>
+      </BrowserRouter>
     </NextUIProvider>
   );
 }

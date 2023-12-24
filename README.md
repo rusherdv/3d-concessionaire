@@ -1,8 +1,12 @@
-# React + Vite
+# 3D Concessionaire
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coded on React with ThreeJS
 
-Currently, two official plugins are available:
+A website to check vehicles with different colours
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deploy: <a href="https://main--lambent-gaufre-6062fc.netlify.app/" target="_blank">Click</a>
+
+Image:
+
+![image](https://github.com/rusherdv/3d-concessionaire/assets/105472000/ef56450c-7d7d-4a70-a3e9-17aeb1215476)
+

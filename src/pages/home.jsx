@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <>
       <div className='bg-black h-[100vh] flex justify-center items-center flex-col'>
-        <p className='text-white text-4xl inter600'>Concessionarie</p>
+        <p className='text-white text-4xl inter600'>3D Concessionaire</p>
         <div className='mt-10 flex flex-wrap w-9/12 justify-center max-2xl:w-full overflow-y-auto max-2xl:h-3/6'>
           {car.cars.map((item, index) => (
             <div key={index} className='inter400 text-white mr-5 mt-5 w-[300px] border-2 border-gray-800 p-5'>

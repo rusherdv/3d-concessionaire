@@ -20,13 +20,9 @@ Concessionarie developed on ThreeJS to inspect vehicles and change color of the 
 
 Deploy: <a href="https://main--lambent-gaufre-6062fc.netlify.app/" target="_blank">Click</a>
 
-Website to chat online
-
 <hr>
 
 ![concessionarie](https://github.com/rusherdv/3d-concessionaire/assets/105472000/3c058fd8-6141-40bd-ab78-0646c722cfdf)
-
-
 
 <hr>
 

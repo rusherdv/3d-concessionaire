@@ -1,12 +1,42 @@
-# 3D Concessionaire
+<div align="center">
+  <h1>3D Concessionaire</h1>
+</div>
 
-Coded on React with ThreeJS
+Concessionarie developed on ThreeJS to inspect vehicles and change color of the chassis and the wheels.
 
-A website to check vehicles with different colours
+<hr>
+
+ ⚙️ **|** **Install**
+
+1. Open CMD or any terminal
+2. Then put: git clone https://github.com/rusherdv/3d-concessionaire.git
+
+<hr>
+
+ ▶️ **|** **Usage**
+
+1. Open CMD or any terminal
+2. Then put: npm run build
 
 Deploy: <a href="https://main--lambent-gaufre-6062fc.netlify.app/" target="_blank">Click</a>
 
-Image:
+Website to chat online
 
-![image](https://github.com/rusherdv/3d-concessionaire/assets/105472000/ef56450c-7d7d-4a70-a3e9-17aeb1215476)
+<hr>
+
+![concessionarie](https://github.com/rusherdv/3d-concessionaire/assets/105472000/3c058fd8-6141-40bd-ab78-0646c722cfdf)
+
+
+
+<hr>
+
+ 📝 **|** **Contact**
+
+- Discord: rusherdv_
+- Github: <a href="https://github.com/rusherdv">@rusherdv</a>
+- Website: <a href="https://www.rusher.net.ar">Check</a>
+
+<hr>
+
+
 

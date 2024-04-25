@@ -18,7 +18,7 @@ Concessionarie developed on ThreeJS to inspect vehicles and change color of the 
 1. Open CMD or any terminal
 2. Then put: npm run build
 
-Deploy: <a href="https://main--lambent-gaufre-6062fc.netlify.app/" target="_blank">Click</a>
+Deploy: <a href="https://3dconcessionarie.netlify.app/" target="_blank">Click</a>
 
 <hr>
 
